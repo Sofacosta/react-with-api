@@ -1,4 +1,4 @@
-import headlinesReducer from '../../reducers/headlines-reducer';
+import headlinesReducer from '../reducers/headlines-reducer';
 import * as c from './../../actions/ActionTypes';
 
 describe('headlinesReducer', () => {
